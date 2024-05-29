@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=DingTalk
+Name[zh_CN]=钉钉
+Exec=dingtalk %u
+Type=Application
+Icon=com.dingtalk.DingTalk
+Keywords=dingtalk,dingding
+MimeType=x-scheme-handler/dingtalk;
+Categories=Network;
+StartupWMClass=com.alibabainc.dingtalk
+SingleMainWindow=true
+X-GNOME-SingleWindow=true
+X-SingleMainWindow=true
